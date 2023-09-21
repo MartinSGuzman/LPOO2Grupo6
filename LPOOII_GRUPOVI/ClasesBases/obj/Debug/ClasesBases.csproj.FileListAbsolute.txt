@@ -1,0 +1,4 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\ClasesBases\bin\Debug\ClasesBases.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\ClasesBases\bin\Debug\ClasesBases.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\ClasesBases\obj\Debug\ClasesBases.dll
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\ClasesBases\obj\Debug\ClasesBases.pdb

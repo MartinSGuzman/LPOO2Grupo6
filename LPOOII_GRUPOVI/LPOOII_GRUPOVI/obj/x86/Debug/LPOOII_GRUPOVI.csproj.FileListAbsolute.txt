@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\bin\Debug\LPOOII_GRUPOVI.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\bin\Debug\LPOOII_GRUPOVI.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\MainWindow.baml
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\MainWindow.g.cs
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\App.g.cs
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\LPOOII_GRUPOVI_MarkupCompile.cache
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\LPOOII_GRUPOVI.g.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\LPOOII_GRUPOVI.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\LPOOII_GRUPOVI.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\LPOOII_GRUPOVI.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\LPOOII_GRUPOVI\LPOOII_GRUPOVI\obj\x86\Debug\LPOOII_GRUPOVI.pdb
